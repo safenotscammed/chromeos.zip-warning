@@ -1,4 +1,4 @@
-# chromeos.zip
+# Watch out for.zip domains!
 
 If you clicked on chromeos.zip in a message or email someone sent you and ended up here instead of downloading a zip file, you might be wondering what's going on. Let me explain ...
 
